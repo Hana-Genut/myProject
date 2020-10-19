@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myProject", "myProject\myProject.csproj", "{24990719-372B-441E-ABBF-F69054CB1285}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Algorithm\Algorithm.csproj", "{9C44A97A-213D-47B8-8515-8E4FB72B5D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "readAndWriteData", "readAndWriteData\readAndWriteData.csproj", "{52D96313-9141-4544-A71D-09A08B8D4B43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{24990719-372B-441E-ABBF-F69054CB1285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24990719-372B-441E-ABBF-F69054CB1285}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24990719-372B-441E-ABBF-F69054CB1285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C44A97A-213D-47B8-8515-8E4FB72B5D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C44A97A-213D-47B8-8515-8E4FB72B5D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C44A97A-213D-47B8-8515-8E4FB72B5D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C44A97A-213D-47B8-8515-8E4FB72B5D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D96313-9141-4544-A71D-09A08B8D4B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D96313-9141-4544-A71D-09A08B8D4B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D96313-9141-4544-A71D-09A08B8D4B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D96313-9141-4544-A71D-09A08B8D4B43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
